@@ -1,0 +1,13 @@
+install python libraries : 
+            SpeechRecognition 
+            pyaudio
+
+Set up Java to write and compile AWT code.
+
+Implement Socket Communication:
+    Python acts as the client (sends text).
+    Java acts as the server (receives and displays it via GUI).
+
+Run and Test:
+    Run Java GUI first.
+    Then run the Python speech script and speak something.
